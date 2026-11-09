@@ -1,0 +1,230 @@
+{
+  "format_version": 1,
+  "source_root": "原项目文件夹（不记录个人绝对路径）",
+  "files": [
+    {
+      "source": "2-7组新生项目汇总/新生项目代码/中间处理/All.py",
+      "destination": "final_code/processing/All.py",
+      "purpose": "结题归档源码",
+      "sha256": "d282f7041abaf1c4d14c26dc8c9a69b2293f7ab0052a83082f95c62047800005",
+      "bytes": 1734,
+      "modified": false
+    },
+    {
+      "source": "2-7组新生项目汇总/新生项目代码/中间处理/angle.py",
+      "destination": "final_code/processing/angle.py",
+      "purpose": "结题归档源码",
+      "sha256": "dede9d96ee6d1e558f8addc08495b27e5e42d022dfefddd5cc48c7917d8750fa",
+      "bytes": 2166,
+      "modified": false
+    },
+    {
+      "source": "2-7组新生项目汇总/新生项目代码/中间处理/file.py",
+      "destination": "final_code/processing/file.py",
+      "purpose": "结题归档源码",
+      "sha256": "874102eb094ba596c3d1630e3690ed18c4b279ccc2f86b1294a820db6bb9891f",
+      "bytes": 1522,
+      "modified": false
+    },
+    {
+      "source": "2-7组新生项目汇总/新生项目代码/中间处理/image_processing.py",
+      "destination": "final_code/processing/image_processing.py",
+      "purpose": "结题归档源码",
+      "sha256": "b84f80cb596e2bbbd3f0e0b8e8122a4c67c638e565f0b7147f814953ac415e06",
+      "bytes": 6188,
+      "modified": false
+    },
+    {
+      "source": "2-7组新生项目汇总/新生项目代码/中间处理/image_stitch.py",
+      "destination": "final_code/processing/image_stitch.py",
+      "purpose": "结题归档源码",
+      "sha256": "7e7a736345d53862fef2f53f98d48d40d8a26eaa7896bcd6c1ec16b632cca885",
+      "bytes": 7682,
+      "modified": false
+    },
+    {
+      "source": "2-7组新生项目汇总/新生项目代码/中间处理/line_test.py",
+      "destination": "final_code/processing/line_test.py",
+      "purpose": "结题归档源码",
+      "sha256": "4dee2b46eb1adf42fbc5668a4c594be01bdcc770c0fdeb57c87187576893bdf1",
+      "bytes": 13575,
+      "modified": false
+    },
+    {
+      "source": "2-7组新生项目汇总/新生项目代码/中间处理/path.py",
+      "destination": "final_code/processing/path.py",
+      "purpose": "结题归档源码",
+      "sha256": "8b486d97137fe191ca754f38857f256d2350f7587fd24c8741654b08cd0dd877",
+      "bytes": 8433,
+      "modified": false
+    },
+    {
+      "source": "2-7组新生项目汇总/新生项目代码/小车/car_move.py",
+      "destination": "final_code/ground_robot/car_move.py",
+      "purpose": "结题归档源码",
+      "sha256": "5a8ca5145750e8f19fb91d1ef0819e395bdfce3c6d57a7499220e459daf24fd3",
+      "bytes": 7371,
+      "modified": false
+    },
+    {
+      "source": "2-7组新生项目汇总/新生项目代码/无人机飞行/drone.py",
+      "destination": "final_code/drone/drone.py",
+      "purpose": "结题归档源码",
+      "sha256": "da6a6ed689c323fc8feb474f7b3a6f2156ecc1edf6d25e8879f2968a28ff31c4",
+      "bytes": 633,
+      "modified": false
+    },
+    {
+      "source": "2-7组新生项目汇总/新生项目代码/无人机飞行/fly.py",
+      "destination": "final_code/drone/fly.py",
+      "purpose": "结题归档源码",
+      "sha256": "f82d0624405fad0d4beb44a2eff56d3f7c74982a54440dc29dbcf3073330fc3b",
+      "bytes": 4359,
+      "modified": false
+    },
+    {
+      "source": "new按A拍摄保存尝试.py",
+      "destination": "experiments/drone/manual_capture.py",
+      "purpose": "无人机手动采图，不起飞",
+      "sha256": "a7325160835eae98a25ff83de1070141509863656bf02f8d876d0b6474789f7f",
+      "bytes": 3977,
+      "modified": false
+    },
+    {
+      "source": "new无人机对准红正再拍摄.py",
+      "destination": "experiments/drone/red_marker_alignment.py",
+      "purpose": "红色标记识别、对齐和采图实验",
+      "sha256": "6dbf33ba679e22971e6fe172bd3e9ab849ba301981ef73498ab175b0187ceae1",
+      "bytes": 16572,
+      "modified": false
+    },
+    {
+      "source": "无人机拍照S2.py",
+      "destination": "experiments/drone/s_pattern_search.py",
+      "purpose": "S 形搜索采图实验",
+      "sha256": "5fce5864e10abdc487a2cb003601ac0d607e3ccc38c0d7883fa823092617067c",
+      "bytes": 5982,
+      "modified": false
+    },
+    {
+      "source": "路径规划坐标版--终版.py",
+      "destination": "experiments/planning/coordinate_planner.py",
+      "purpose": "单文件 BFS 和 RDP 坐标输出实验",
+      "sha256": "0449df6f4414d357bc6c042bb5ddea7cf3ceb00cc9a4ac5e0d42278ebc621be6",
+      "bytes": 8495,
+      "modified": false
+    },
+    {
+      "source": "路径规划图像版--终版.py",
+      "destination": "experiments/planning/image_planner.py",
+      "purpose": "单文件 BFS 路径可视化实验",
+      "sha256": "e265e5bb55a3b3977d493683493be83b65cd3e1ed26d120307c46185567a51f7",
+      "bytes": 4979,
+      "modified": false
+    },
+    {
+      "source": "yolo识别豆包2.py",
+      "destination": "experiments/vision/webcam_yolo.py",
+      "purpose": "电脑摄像头 YOLO 检测实验",
+      "sha256": "51b98fdb88f56202abeddf6e4e2be985f2693d43e7969e80a44e40c138b68608",
+      "bytes": 1176,
+      "modified": false
+    },
+    {
+      "source": "yolov8 robomaster phone1.py",
+      "destination": "experiments/vision/robomaster_phone.py",
+      "purpose": "RoboMaster 手机目标识别实验",
+      "sha256": "2bb99f7616e5a560a93f3b9051f472615df981a04641bd0fe8d79300524f9b9f",
+      "bytes": 4411,
+      "modified": false
+    },
+    {
+      "source": "yolo robomaster banana 1.py",
+      "destination": "experiments/vision/robomaster_banana.py",
+      "purpose": "RoboMaster 香蕉目标识别实验",
+      "sha256": "24d2f6c492b4c6880f53b60e5a615fdd01de6cdad507abd76db971d4d77094ac",
+      "bytes": 4675,
+      "modified": false
+    },
+    {
+      "source": "EPTT新生项目/2.py",
+      "destination": "experiments/vision/hsv_color_detection.py",
+      "purpose": "电脑摄像头 HSV 颜色识别实验",
+      "sha256": "6290b1991ce7b8b862febd4a870874f55ee2015f026e8d71d60e554c8bcf743f",
+      "bytes": 2022,
+      "modified": false
+    },
+    {
+      "source": "orb拼接.py",
+      "destination": "experiments/stitching/orb_stitch.py",
+      "purpose": "ORB 特征匹配与图像拼接实验",
+      "sha256": "136c258e43db8142d088ba5e04d18cc35fd2023e784732fb39a30e03873e97bb",
+      "bytes": 1600,
+      "modified": false
+    },
+    {
+      "source": "2-7组新生项目汇总/图片/地面图.jpg",
+      "destination": "assets/ground_map.jpg",
+      "purpose": "结题地面地图展示",
+      "sha256": "6549e5188c2abf3b94112f66545da8b78714877e1203f43a72d630d847a55808",
+      "bytes": 346037,
+      "modified": false
+    },
+    {
+      "source": "2-7组新生项目汇总/图片/规划图.jpg",
+      "destination": "assets/planned_path.jpg",
+      "purpose": "结题路径规划效果展示，非本次运行输出",
+      "sha256": "fff9c2ce11d0236c66c58bbb2849a2f5c7f81ddc3c63f8f1a266fd43840a7216",
+      "bytes": 96166,
+      "modified": false
+    },
+    {
+      "source": "2-7组新生项目汇总/图片/节点图.jpg",
+      "destination": "assets/path_nodes.jpg",
+      "purpose": "结题路径节点展示，非本次运行输出",
+      "sha256": "0d7517eea03b4eb2a275c51debc952b677862a9812ebb7697d9e80ea0d49665d",
+      "bytes": 61997,
+      "modified": false
+    },
+    {
+      "source": "2-7组新生项目汇总/图片/rgb_photo_20250923_015520_1.jpg",
+      "destination": "assets/drone_capture.jpg",
+      "purpose": "结题前视采图样例",
+      "sha256": "3c9a17cfecf0b86a4e93649a03f669084fb0f99e6d78d83e47070df61413a622",
+      "bytes": 144901,
+      "modified": false
+    },
+    {
+      "source": "road 5.jpg",
+      "destination": "experiments/planning/road 5.jpg",
+      "purpose": "坐标规划实验的原始输入",
+      "sha256": "86cc0d218e8416fbff95785ee9c83bf8eb405e647b364cb64debef7331ae4846",
+      "bytes": 38449,
+      "modified": false
+    },
+    {
+      "source": "road mini.jpg",
+      "destination": "experiments/planning/road mini.jpg",
+      "purpose": "图像规划实验的原始输入",
+      "sha256": "ebde9420bdfcaae0701aae4169b4734838250ce8c176f41a821a5559edf27475",
+      "bytes": 71990,
+      "modified": false
+    },
+    {
+      "source": "gongzhupai 1.jpg",
+      "destination": "experiments/stitching/gongzhupai 1.jpg",
+      "purpose": "ORB 拼接实验原始输入一",
+      "sha256": "db5182d6995dd8a0bebced35e37c218d472ab2e6e1962d8faff0f546e2dedaf4",
+      "bytes": 248324,
+      "modified": false
+    },
+    {
+      "source": "gongzhupai 2.jpg",
+      "destination": "experiments/stitching/gongzhupai 2.jpg",
+      "purpose": "ORB 拼接实验原始输入二",
+      "sha256": "8d2106857f9e11944ce4459c8bd25d68eb30a3683e328956912c7dc32fcc72e0",
+      "bytes": 241534,
+      "modified": false
+    }
+  ]
+}

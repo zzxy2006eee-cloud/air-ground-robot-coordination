@@ -1,0 +1,40 @@
+# Python and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+# Credentials and machine-specific configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+# Downloaded models, datasets, installers and large archives
+*.pt
+*.pth
+*.onnx
+*.engine
+*.exe
+*.msi
+*.zip
+*.7z
+*.mp4
+*.mov
+# Runtime outputs (source images outside these directories remain tracked)
+runtime/
+input/
+out_put/
+dji/
+runs/
+middle_process_images/
+experiments/planning/processed_image.jpg
+experiments/planning/result.jpg
+experiments/planning/path_points.txt
+experiments/stitching/image_matched.jpg
+angles.txt
+path_distance.txt
+*.log

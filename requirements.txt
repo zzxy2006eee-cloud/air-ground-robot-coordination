@@ -1,0 +1,5 @@
+# Offline processing dependencies inferred from source imports.
+# Not an original 2025 environment lockfile.
+numpy>=1.23.5,<2
+opencv-python>=4.8,<4.12
+scikit-learn>=1.3,<1.6

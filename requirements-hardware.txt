@@ -1,0 +1,5 @@
+# Install in a separate environment after checking hardware SDK compatibility.
+-r requirements.txt
+djitellopy
+robomaster
+ultralytics

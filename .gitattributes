@@ -1,0 +1,4 @@
+# Keep archived source bytes intact; provenance uses SHA-256 of original files.
+* -text
+*.jpg binary
+*.png binary
